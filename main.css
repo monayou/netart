@@ -1,17 +1,97 @@
+
+
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "Papyrus";
   line-height: 1.5;
   padding: 30px 20px;
 }
 
 h1 {
-  color: red;
+  color: white;
   padding: 20px 0px 10px 0px;
 }
 
 a {
 color: #69CBBB;
 text-decoration: none;
+}
+
+#whatever {
+  background-image: url(IMG/Lightning.jpg);
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 800px;
+  background-size: cover;
+  position: absolute;
+  top: 80px;
+  right: 70px;
+}
+
+#different {
+  background-image: url(IMG/giphy.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  top: 300px;
+  right: 920px;
+}
+
+#Earthquake1 {
+  background-image: url(IMG/Earthquake 4.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  }
+
+#Earthquake2 {
+  background-image: url(IMG/Earthquake 5.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+
+#Earthquake3 {
+  background-image: url(IMG/Earthquake 6.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+
+#Earthquake4 {
+  background-image: url(IMG/Earthquake 7.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+
+#tsunami1 {
+  background-image: url(IMG/Tsunami 1.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+
+#tsunami2 {
+  background-image: url(IMG/Tsunami 2.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+
+#tsunami3 {
+  background-image: url(IMG/Tsunami 3.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+
+#tsunami4 {
+  background-image: url(IMG/Tsunami 4.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
 }
